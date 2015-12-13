@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/de/Moohsassin/LamaBungee/Commands/Command_blocked.java=UTF-8
+encoding//src/de/Moohsassin/LamaBungee/Commands/Command_broadcast.java=UTF-8
+encoding//src/de/Moohsassin/LamaBungee/Commands/Command_msg.java=UTF-8
+encoding//src/de/Moohsassin/LamaBungee/Events/Event_Chat.java=UTF-8
+encoding//src/de/Moohsassin/LamaBungee/FriendManager/Command_friend.java=UTF-8
+encoding//src/de/Moohsassin/LamaBungee/FriendManager/FriendMethods.java=UTF-8
+encoding//src/de/Moohsassin/LamaBungee/LamaBungee.java=UTF-8
+encoding//src/de/Moohsassin/PartyManager/Command_party.java=UTF-8
+encoding//src/de/Moohsassin/PartyManager/PartyMethods.java=UTF-8
